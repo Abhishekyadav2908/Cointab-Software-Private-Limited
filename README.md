@@ -72,10 +72,6 @@ Create a resultant CSV/Excel file with the following columns:
 ● Total weight as per Courier Company (KG)
 ● Weight slab charged by Courier Company (KG)
 ● Delivery Zone as per X
-Website: cointab.in Email: work@cointab.in
-
-Cointab Software Private Limited
-
 ● Delivery Zone charged by Courier Company
 ● Expected Charge as per X (Rs.)
 ● Charges Billed by Courier Company (Rs.)
